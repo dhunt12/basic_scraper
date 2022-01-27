@@ -1,0 +1,22 @@
+Decoupling a system into its basic components or services during the design phase of our development process offers
+a whole host of benefits that we as developers can capitalize on to deliver the optimal experience to our user base. At
+this point I think it is important to convey the fundamental importance of simplicity using a concept that scientist who
+study our biological computers know all too well:
+The first benefit this approach gives us is the opportunity to recognize the complex relationships that exist between the services
+our system is providing , the enviornment that our system is operating in, and the consumers of our services. The second benefit we
+gain by applying this methodology is a decrease in complexity which makes troubleshooting problems within our system exponentially easier.
+This reduction in complexity also makes sense from a psychological standpoint as well due to the innate limitations of
+the human brain and our natural inability to deal with higher levels of abstraction and complexity that these large tightly coupled systems
+tend to exist in. To give you a little more perspective, the IEEE has even gone as far as to define complexity as " a system that is difficult
+to understand and verify. "
+
+So. let's get started by establishing a dedicated development folder in a directory of your choice. I recommend using a single folder
+for all of your software engineering projects, code snippets, and libraries. Keeping everything oranized makes it easier to use the version control
+system of your choice. I personally recommend Github but the choice is yours. It is important that you remember that once you push your code up
+Going into a career in
+
+With that being said we will begin by starting a new project and following the guidelines at https://docs.python-guide.org/writing/structure/
+to build out our python module's file structure. We'll be placing that python module in the development directory we'l It is important to keep your project folders organized and compliant with the latest
+style guidelines for Python, also known as PEP. We also need a way to generate this project directory for the future modules we willto your public GitHub repository you are in the public domain. It's important that you keep you code base organized, well documented, and updated.   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+be building. So let's go ahead and use bash to write a script to do so.
